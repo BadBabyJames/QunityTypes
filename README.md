@@ -1,6 +1,7 @@
 ```
 License:       The MIT License (MIT)
-Project page:  https://github.com/objorke/QuantityTypes
+QuantityTypes page:  https://github.com/objorke/QuantityTypes
+QunityTypes page: https://github.com/badbabyjames/QunityTypes
 ```
 
 _NASA's Mars Climate Observer crashed in September 1999 because of a serious breakdown in project management. However, that accident
